@@ -1,0 +1,4 @@
+build
+ipch
+lib/*
+.DS_Store
